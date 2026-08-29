@@ -1,5 +1,8 @@
 # Police accountability data
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22165476.svg)](https://doi.org/10.5281/zenodo.22165476)
+[![Licence: CC BY 4.0](https://img.shields.io/badge/Licence-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 Open, machine-readable datasets on police complaints, stop and search, use of force and
 deaths following police contact, for the **United Kingdom**, the **United States** and
 **Australia**.
@@ -134,6 +137,18 @@ the publishability thresholds and the rounding.
 The pipeline is deliberately boring: Python reads the source files, counts, divides, and
 writes. Where a rate cannot be computed honestly, the row is marked unpublishable and the
 reason is recorded rather than the row being dropped.
+
+## How to cite
+
+Cite the **concept DOI**, which always resolves to the most recent version:
+
+> PoliceComplaint.com. (2026). *Police accountability data: United Kingdom, United States
+> and Australia* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22165476
+
+To cite this specific release, use `10.5281/zenodo.22165477`.
+
+If you rely on an underlying figure rather than our calculation, please cite the original
+publisher as well. Each dataset names its sources.
 
 ## Licence
 
