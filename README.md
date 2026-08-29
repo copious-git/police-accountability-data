@@ -1,0 +1,148 @@
+# Police accountability data
+
+Open, machine-readable datasets on police complaints, stop and search, use of force and
+deaths following police contact, for the **United Kingdom**, the **United States** and
+**Australia**.
+
+Everything here is **derived** data: computed from official open sources by code, then
+published with the source, the period and the denominator attached. No figure in this
+repository was written, estimated or rounded by a language model.
+
+Published by [PoliceComplaint.com](https://www.policecomplaint.com/), which presents the
+same figures as readable pages. This repository is the underlying data.
+
+---
+
+## What is actually new here
+
+Most of the inputs are already public. Two of these outputs are not published in this form
+anywhere we could find, and one is a straightforward tidying of a source that is otherwise
+only available as a spreadsheet.
+
+| Dataset | What it adds |
+|---|---|
+| `uk/stop-search-ethnic-disparity-by-force.csv` and `-national.csv` | Each force's stop-and-search **shares by ethnicity divided by that ethnic group's share of that force area's own resident population**, built by joining data.police.uk to Census 2021 via the ONS local-authority-to-police-force-area lookup |
+| `uk/complaint-review-outcomes-by-force.csv` | Every force ranked on how often its own complaint decisions were **overturned on review** |
+| `us/police-killings-by-state.csv` | Per-state aggregates including **whether any officer was criminally charged, and how the prosecution ended** |
+| `australia/complaints-and-deaths-in-custody-by-state.csv` | The Report on Government Services police tables as tidy per-state rows rather than a 3,328-row wide spreadsheet |
+
+### Where this overlaps something official — read this before citing it
+
+**The UK government already publishes per-force stop-and-search rates by ethnicity.**
+[Ethnicity Facts and Figures](https://www.ethnicity-facts-figures.service.gov.uk/)
+publishes "stop and search rate for every 1,000 people, by ethnicity and area", by police
+force area, using the same 2021 Census.
+
+This dataset differs in two ways, and neither is "they don't publish it":
+
+1. **Recency.** Their most recent published year ends 31 March 2023. This covers rolling
+   36-month windows running to mid-2026.
+2. **Measure and granularity.** They publish a *rate per 1,000 people*. This publishes a
+   *ratio of shares*: a group's share of recorded searches divided by its share of
+   residents, alongside outcome data on the same rows.
+
+Both are legitimate measures and they answer slightly different questions. If you need the
+official statistic, use theirs. If you need something more current, or you need outcome and
+ethnicity on the same row, use this.
+
+---
+
+## Headline figures
+
+All verified against the files in this repository at the commit you are reading.
+
+**United Kingdom**
+- **1,397,874** stop and search records across **41** of 44 forces. Three forces published
+  no stop-and-search data at all and are named in the file rather than dropped.
+- Nationally, Black people accounted for **18.2%** of searches with a recorded ethnicity
+  against **4.2%** of residents, a ratio of **4.4x**. That national figure is computed over
+  **1,151,285** searches across the 36 forces with a publishable denominator, and is in
+  `uk/stop-search-ethnic-disparity-national.csv` with the shares it is derived from.
+- **24.5%** of completed complaint reviews found the force's own handling was not reasonable
+  and proportionate. The highest was **Devon & Cornwall at 40.1%**; the Metropolitan Police
+  was **36.0%**.
+- Disparity ratios are published for **36 forces**. Five forces have search data but no
+  publishable denominator and are marked `publishable=false` with the reason.
+
+**United States**
+- **15,550** people killed by police, 2013 to 2026, across 51 states and 208 departments.
+- **267** of those cases (**1.7%**) led to a criminal charge against an officer.
+- **91** ended in a conviction or a guilty plea. **40** ended in acquittal.
+
+**Australia**
+- Complaints per 100,000 people in 2024-25 ranged from **6.3 in Victoria** to
+  **97.6 in the Northern Territory**.
+- **445** deaths in police custody, 2007-08 to 2024-25. **93** involved a person recorded as
+  Aboriginal or Torres Strait Islander.
+
+---
+
+## Caveats that matter
+
+**Read these before drawing a conclusion from any file here.**
+
+- **A disparity ratio is not proof of unlawful conduct.** It is a measured difference in
+  outcomes. It does not establish a cause and it does not identify anyone's behaviour.
+- **City of London is an artefact, not an outlier.** Its ratio is the highest in the UK file
+  at **10.6x**, because the City has roughly 8,600 residents and several hundred thousand
+  daily workers and visitors. A residence-based denominator is the wrong denominator there.
+  The figure is published because dropping inconvenient rows is worse, but do not rank it
+  against territorial forces.
+- **Complaint counts reflect recording practice.** A force that records complaints readily
+  logs more of them. That is not the same as a force whose officers behave worse. This is
+  most visible in the Australian file, where the 15x spread between Victoria and the
+  Northern Territory is far too large to be conduct and is very largely definitional.
+- **Denominators are smaller than totals wherever a field is often blank.** Body-camera and
+  mental-health shares are computed only over records where the field was completed, and the
+  denominator is published in its own column so you can see it.
+- **Periods differ by force.** data.police.uk coverage is not uniform; each row carries its
+  own `period`.
+- **A recorded complaint is an allegation, not a finding.** A death recorded as following
+  police contact is categorised that way by the publisher and does not imply the police
+  caused it or acted wrongly.
+- **Scotland and Northern Ireland are absent** from the UK files. Police Scotland and the
+  PSNI do not report into these datasets and the IOPC's statistics cover England and Wales
+  only. There is no Scottish or Northern Irish data here because there is none to compute
+  from, not because it was overlooked.
+- **Ireland has no dataset at all.** We checked all 12,985 tables in the Central Statistics
+  Office catalogue. No Irish police complaints, use-of-force or death-following-contact data
+  exists in machine-readable form.
+
+---
+
+## Sources
+
+| Source | Covers | Licence |
+|---|---|---|
+| [data.police.uk](https://data.police.uk/) | Stop and search with outcomes, England, Wales, Northern Ireland | Open Government Licence v3.0 |
+| [Independent Office for Police Conduct](https://www.policeconduct.gov.uk/) | Complaints and review outcomes, England and Wales | Open Government Licence v3.0 |
+| [Home Office use of force statistics](https://www.gov.uk/government/collections/police-use-of-force-statistics) | Use of force reports | Open Government Licence v3.0 |
+| [ONS Census 2021 (TS021)](https://www.ons.gov.uk/) and the LAD-to-PFA lookup | Population denominators by ethnic group | Open Government Licence v3.0 |
+| [Mapping Police Violence](https://mappingpoliceviolence.us/) | People killed by US police, 2013 onwards | Per the publisher's terms; aggregates only here |
+| [US Census Bureau](https://www.census.gov/) NST-EST2024 | State population denominators | Public domain |
+| [Report on Government Services 2026](https://www.pc.gov.au/ongoing/report-on-government-services), Part C Section 6 | Australian complaints and deaths in custody | CC BY 4.0 |
+
+Only **aggregates** are redistributed here. No source's record-level data is republished.
+
+---
+
+## Method
+
+See [`METHOD.md`](METHOD.md) for how each figure is computed, including the exact joins,
+the publishability thresholds and the rounding.
+
+The pipeline is deliberately boring: Python reads the source files, counts, divides, and
+writes. Where a rate cannot be computed honestly, the row is marked unpublishable and the
+reason is recorded rather than the row being dropped.
+
+## Licence
+
+Derived data in this repository: [CC BY 4.0](LICENSE.md). Attribute to
+PoliceComplaint.com and, where you rely on an underlying figure, to the original publisher
+named in the table above.
+
+## Corrections
+
+If anything here is wrong, tell us and we will check it against the source and correct it:
+open an issue, or email info@policecomplaint.com. That applies to police forces and
+oversight bodies writing about their own numbers as much as to anyone else.

@@ -1,0 +1,145 @@
+state_slug,state,police_service,year,complaints_per_100k_people,complaints_per_100_sworn_staff,deaths_in_police_custody,deaths_indigenous,oversight_body
+act,Australian Capital Territory,ACT Policing,2007-08,,,0,0,ACT Ombudsman
+act,Australian Capital Territory,ACT Policing,2008-09,,,1,0,ACT Ombudsman
+act,Australian Capital Territory,ACT Policing,2009-10,,,1,0,ACT Ombudsman
+act,Australian Capital Territory,ACT Policing,2010-11,,,1,0,ACT Ombudsman
+act,Australian Capital Territory,ACT Policing,2011-12,,,0,0,ACT Ombudsman
+act,Australian Capital Territory,ACT Policing,2012-13,,,0,0,ACT Ombudsman
+act,Australian Capital Territory,ACT Policing,2013-14,,,0,0,ACT Ombudsman
+act,Australian Capital Territory,ACT Policing,2014-15,,,0,0,ACT Ombudsman
+act,Australian Capital Territory,ACT Policing,2015-16,22.8,13.0,0,0,ACT Ombudsman
+act,Australian Capital Territory,ACT Policing,2016-17,16.9,10.0,0,0,ACT Ombudsman
+act,Australian Capital Territory,ACT Policing,2017-18,21.9,13.5,1,0,ACT Ombudsman
+act,Australian Capital Territory,ACT Policing,2018-19,18.3,11.0,0,0,ACT Ombudsman
+act,Australian Capital Territory,ACT Policing,2019-20,14.8,9.1,0,0,ACT Ombudsman
+act,Australian Capital Territory,ACT Policing,2020-21,9.2,5.6,0,0,ACT Ombudsman
+act,Australian Capital Territory,ACT Policing,2021-22,8.4,5.2,0,0,ACT Ombudsman
+act,Australian Capital Territory,ACT Policing,2022-23,8.5,5.0,0,0,ACT Ombudsman
+act,Australian Capital Territory,ACT Policing,2023-24,11.5,6.6,0,0,ACT Ombudsman
+act,Australian Capital Territory,ACT Policing,2024-25,11.8,6.6,0,0,ACT Ombudsman
+nsw,New South Wales,NSW Police Force,2007-08,,,6,0,Law Enforcement Conduct Commission
+nsw,New South Wales,NSW Police Force,2008-09,,,6,0,Law Enforcement Conduct Commission
+nsw,New South Wales,NSW Police Force,2009-10,,,5,2,Law Enforcement Conduct Commission
+nsw,New South Wales,NSW Police Force,2010-11,,,6,1,Law Enforcement Conduct Commission
+nsw,New South Wales,NSW Police Force,2011-12,,,11,0,Law Enforcement Conduct Commission
+nsw,New South Wales,NSW Police Force,2012-13,,,6,0,Law Enforcement Conduct Commission
+nsw,New South Wales,NSW Police Force,2013-14,,,1,0,Law Enforcement Conduct Commission
+nsw,New South Wales,NSW Police Force,2014-15,,,7,0,Law Enforcement Conduct Commission
+nsw,New South Wales,NSW Police Force,2015-16,43.0,20.3,5,0,Law Enforcement Conduct Commission
+nsw,New South Wales,NSW Police Force,2016-17,40.2,19.3,6,3,Law Enforcement Conduct Commission
+nsw,New South Wales,NSW Police Force,2017-18,37.1,17.9,7,1,Law Enforcement Conduct Commission
+nsw,New South Wales,NSW Police Force,2018-19,39.6,19.0,5,1,Law Enforcement Conduct Commission
+nsw,New South Wales,NSW Police Force,2019-20,51.2,23.9,7,0,Law Enforcement Conduct Commission
+nsw,New South Wales,NSW Police Force,2020-21,53.1,24.3,7,2,Law Enforcement Conduct Commission
+nsw,New South Wales,NSW Police Force,2021-22,60.9,28.4,9,5,Law Enforcement Conduct Commission
+nsw,New South Wales,NSW Police Force,2022-23,59.7,29.2,17,4,Law Enforcement Conduct Commission
+nsw,New South Wales,NSW Police Force,2023-24,62.0,32.6,7,2,Law Enforcement Conduct Commission
+nsw,New South Wales,NSW Police Force,2024-25,61.5,33.5,7,3,Law Enforcement Conduct Commission
+nt,Northern Territory,Northern Territory Police Force,2007-08,,,5,2,NT Ombudsman
+nt,Northern Territory,Northern Territory Police Force,2008-09,,,5,4,NT Ombudsman
+nt,Northern Territory,Northern Territory Police Force,2009-10,,,4,2,NT Ombudsman
+nt,Northern Territory,Northern Territory Police Force,2010-11,,,0,0,NT Ombudsman
+nt,Northern Territory,Northern Territory Police Force,2011-12,,,2,2,NT Ombudsman
+nt,Northern Territory,Northern Territory Police Force,2012-13,,,0,0,NT Ombudsman
+nt,Northern Territory,Northern Territory Police Force,2013-14,,,1,1,NT Ombudsman
+nt,Northern Territory,Northern Territory Police Force,2014-15,,,2,2,NT Ombudsman
+nt,Northern Territory,Northern Territory Police Force,2015-16,139.3,28.6,1,1,NT Ombudsman
+nt,Northern Territory,Northern Territory Police Force,2016-17,137.8,29.5,2,1,NT Ombudsman
+nt,Northern Territory,Northern Territory Police Force,2017-18,142.6,28.5,0,0,NT Ombudsman
+nt,Northern Territory,Northern Territory Police Force,2018-19,162.7,32.9,0,0,NT Ombudsman
+nt,Northern Territory,Northern Territory Police Force,2019-20,112.5,22.7,2,2,NT Ombudsman
+nt,Northern Territory,Northern Territory Police Force,2020-21,105.7,20.7,0,0,NT Ombudsman
+nt,Northern Territory,Northern Territory Police Force,2021-22,101.5,20.3,0,0,NT Ombudsman
+nt,Northern Territory,Northern Territory Police Force,2022-23,77.6,15.2,0,0,NT Ombudsman
+nt,Northern Territory,Northern Territory Police Force,2023-24,80.0,15.4,0,0,NT Ombudsman
+nt,Northern Territory,Northern Territory Police Force,2024-25,97.6,18.2,1,1,NT Ombudsman
+queensland,Queensland,Queensland Police Service,2007-08,,,5,1,Crime and Corruption Commission
+queensland,Queensland,Queensland Police Service,2008-09,,,8,1,Crime and Corruption Commission
+queensland,Queensland,Queensland Police Service,2009-10,,,6,0,Crime and Corruption Commission
+queensland,Queensland,Queensland Police Service,2010-11,,,7,1,Crime and Corruption Commission
+queensland,Queensland,Queensland Police Service,2011-12,,,7,0,Crime and Corruption Commission
+queensland,Queensland,Queensland Police Service,2012-13,,,2,0,Crime and Corruption Commission
+queensland,Queensland,Queensland Police Service,2013-14,,,3,0,Crime and Corruption Commission
+queensland,Queensland,Queensland Police Service,2014-15,,,5,0,Crime and Corruption Commission
+queensland,Queensland,Queensland Police Service,2015-16,25.0,10.2,3,0,Crime and Corruption Commission
+queensland,Queensland,Queensland Police Service,2016-17,26.2,10.9,2,0,Crime and Corruption Commission
+queensland,Queensland,Queensland Police Service,2017-18,27.2,11.5,5,1,Crime and Corruption Commission
+queensland,Queensland,Queensland Police Service,2018-19,20.9,9.0,7,2,Crime and Corruption Commission
+queensland,Queensland,Queensland Police Service,2019-20,19.6,8.4,7,0,Crime and Corruption Commission
+queensland,Queensland,Queensland Police Service,2020-21,20.8,8.9,6,2,Crime and Corruption Commission
+queensland,Queensland,Queensland Police Service,2021-22,23.3,10.0,6,3,Crime and Corruption Commission
+queensland,Queensland,Queensland Police Service,2022-23,24.1,10.7,15,5,Crime and Corruption Commission
+queensland,Queensland,Queensland Police Service,2023-24,31.1,14.0,8,2,Crime and Corruption Commission
+queensland,Queensland,Queensland Police Service,2024-25,29.2,13.1,2,0,Crime and Corruption Commission
+south-australia,South Australia,South Australia Police,2007-08,,,4,2,Office for Public Integrity
+south-australia,South Australia,South Australia Police,2008-09,,,6,2,Office for Public Integrity
+south-australia,South Australia,South Australia Police,2009-10,,,1,0,Office for Public Integrity
+south-australia,South Australia,South Australia Police,2010-11,,,2,0,Office for Public Integrity
+south-australia,South Australia,South Australia Police,2011-12,,,3,0,Office for Public Integrity
+south-australia,South Australia,South Australia Police,2012-13,,,1,1,Office for Public Integrity
+south-australia,South Australia,South Australia Police,2013-14,,,2,0,Office for Public Integrity
+south-australia,South Australia,South Australia Police,2014-15,,,1,0,Office for Public Integrity
+south-australia,South Australia,South Australia Police,2015-16,62.7,24.1,3,1,Office for Public Integrity
+south-australia,South Australia,South Australia Police,2016-17,50.5,19.5,5,2,Office for Public Integrity
+south-australia,South Australia,South Australia Police,2017-18,103.8,39.0,3,1,Office for Public Integrity
+south-australia,South Australia,South Australia Police,2018-19,74.4,28.0,2,0,Office for Public Integrity
+south-australia,South Australia,South Australia Police,2019-20,91.3,34.8,0,0,Office for Public Integrity
+south-australia,South Australia,South Australia Police,2020-21,89.8,34.8,1,0,Office for Public Integrity
+south-australia,South Australia,South Australia Police,2021-22,80.0,32.1,1,0,Office for Public Integrity
+south-australia,South Australia,South Australia Police,2022-23,85.8,35.4,2,1,Office for Public Integrity
+south-australia,South Australia,South Australia Police,2023-24,86.8,36.1,0,0,Office for Public Integrity
+south-australia,South Australia,South Australia Police,2024-25,87.9,36.7,3,0,Office for Public Integrity
+tasmania,Tasmania,Tasmania Police,2007-08,,,1,0,Integrity Commission Tasmania
+tasmania,Tasmania,Tasmania Police,2008-09,,,0,0,Integrity Commission Tasmania
+tasmania,Tasmania,Tasmania Police,2009-10,,,1,0,Integrity Commission Tasmania
+tasmania,Tasmania,Tasmania Police,2010-11,,,2,0,Integrity Commission Tasmania
+tasmania,Tasmania,Tasmania Police,2011-12,,,0,0,Integrity Commission Tasmania
+tasmania,Tasmania,Tasmania Police,2012-13,,,0,0,Integrity Commission Tasmania
+tasmania,Tasmania,Tasmania Police,2013-14,,,0,0,Integrity Commission Tasmania
+tasmania,Tasmania,Tasmania Police,2014-15,,,0,0,Integrity Commission Tasmania
+tasmania,Tasmania,Tasmania Police,2015-16,27.0,11.9,1,0,Integrity Commission Tasmania
+tasmania,Tasmania,Tasmania Police,2016-17,15.9,6.8,0,0,Integrity Commission Tasmania
+tasmania,Tasmania,Tasmania Police,2017-18,33.1,14.2,0,0,Integrity Commission Tasmania
+tasmania,Tasmania,Tasmania Police,2018-19,50.1,21.4,1,0,Integrity Commission Tasmania
+tasmania,Tasmania,Tasmania Police,2019-20,34.9,15.0,2,0,Integrity Commission Tasmania
+tasmania,Tasmania,Tasmania Police,2020-21,33.8,14.3,1,0,Integrity Commission Tasmania
+tasmania,Tasmania,Tasmania Police,2021-22,44.0,18.6,0,0,Integrity Commission Tasmania
+tasmania,Tasmania,Tasmania Police,2022-23,46.7,20.1,2,0,Integrity Commission Tasmania
+tasmania,Tasmania,Tasmania Police,2023-24,36.0,15.1,1,0,Integrity Commission Tasmania
+tasmania,Tasmania,Tasmania Police,2024-25,52.6,21.4,1,0,Integrity Commission Tasmania
+victoria,Victoria,Victoria Police,2007-08,,,8,0,Independent Broad-based Anti-corruption Commission
+victoria,Victoria,Victoria Police,2008-09,,,3,0,Independent Broad-based Anti-corruption Commission
+victoria,Victoria,Victoria Police,2009-10,,,6,0,Independent Broad-based Anti-corruption Commission
+victoria,Victoria,Victoria Police,2010-11,,,1,0,Independent Broad-based Anti-corruption Commission
+victoria,Victoria,Victoria Police,2011-12,,,3,0,Independent Broad-based Anti-corruption Commission
+victoria,Victoria,Victoria Police,2012-13,,,2,0,Independent Broad-based Anti-corruption Commission
+victoria,Victoria,Victoria Police,2013-14,,,5,0,Independent Broad-based Anti-corruption Commission
+victoria,Victoria,Victoria Police,2014-15,,,2,0,Independent Broad-based Anti-corruption Commission
+victoria,Victoria,Victoria Police,2015-16,21.8,10.0,1,0,Independent Broad-based Anti-corruption Commission
+victoria,Victoria,Victoria Police,2016-17,19.7,9.0,1,1,Independent Broad-based Anti-corruption Commission
+victoria,Victoria,Victoria Police,2017-18,19.2,8.4,5,1,Independent Broad-based Anti-corruption Commission
+victoria,Victoria,Victoria Police,2018-19,19.3,8.2,6,0,Independent Broad-based Anti-corruption Commission
+victoria,Victoria,Victoria Police,2019-20,18.3,7.5,6,0,Independent Broad-based Anti-corruption Commission
+victoria,Victoria,Victoria Police,2020-21,15.9,6.3,4,0,Independent Broad-based Anti-corruption Commission
+victoria,Victoria,Victoria Police,2021-22,25.3,10.2,5,0,Independent Broad-based Anti-corruption Commission
+victoria,Victoria,Victoria Police,2022-23,16.5,6.9,3,0,Independent Broad-based Anti-corruption Commission
+victoria,Victoria,Victoria Police,2023-24,11.0,4.7,5,1,Independent Broad-based Anti-corruption Commission
+victoria,Victoria,Victoria Police,2024-25,6.3,2.8,6,1,Independent Broad-based Anti-corruption Commission
+western-australia,Western Australia,Western Australia Police Force,2007-08,,,4,0,Corruption and Crime Commission
+western-australia,Western Australia,Western Australia Police Force,2008-09,,,8,1,Corruption and Crime Commission
+western-australia,Western Australia,Western Australia Police Force,2009-10,,,3,2,Corruption and Crime Commission
+western-australia,Western Australia,Western Australia Police Force,2010-11,,,6,5,Corruption and Crime Commission
+western-australia,Western Australia,Western Australia Police Force,2011-12,,,5,0,Corruption and Crime Commission
+western-australia,Western Australia,Western Australia Police Force,2012-13,,,6,3,Corruption and Crime Commission
+western-australia,Western Australia,Western Australia Police Force,2013-14,,,1,0,Corruption and Crime Commission
+western-australia,Western Australia,Western Australia Police Force,2014-15,,,3,1,Corruption and Crime Commission
+western-australia,Western Australia,Western Australia Police Force,2015-16,49.2,20.3,2,1,Corruption and Crime Commission
+western-australia,Western Australia,Western Australia Police Force,2016-17,50.7,20.9,2,1,Corruption and Crime Commission
+western-australia,Western Australia,Western Australia Police Force,2017-18,49.1,20.3,3,0,Corruption and Crime Commission
+western-australia,Western Australia,Western Australia Police Force,2018-19,25.1,10.6,6,3,Corruption and Crime Commission
+western-australia,Western Australia,Western Australia Police Force,2019-20,20.4,8.5,2,1,Corruption and Crime Commission
+western-australia,Western Australia,Western Australia Police Force,2020-21,19.7,7.9,0,0,Corruption and Crime Commission
+western-australia,Western Australia,Western Australia Police Force,2021-22,15.9,6.4,1,0,Corruption and Crime Commission
+western-australia,Western Australia,Western Australia Police Force,2022-23,10.4,4.4,2,0,Corruption and Crime Commission
+western-australia,Western Australia,Western Australia Police Force,2023-24,10.8,4.6,6,0,Corruption and Crime Commission
+western-australia,Western Australia,Western Australia Police Force,2024-25,7.0,3.0,2,1,Corruption and Crime Commission

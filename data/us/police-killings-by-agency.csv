@@ -1,0 +1,209 @@
+agency_slug,agency,state,ori,killed_by_police,bodycam_active_pct,mental_illness_recorded_pct,officers_charged,convicted_or_pleaded_guilty,period
+los-angeles-police-department-ca,Los Angeles Police Department,California,CA0194200,220,34.2,19.7,3,1,2013 to 2026
+phoenix-police-department-az,Phoenix Police Department,Arizona,AZ0072300,185,27.3,18.2,0,0,2013 to 2026
+los-angeles-county-sheriff-s-office-ca,Los Angeles County Sheriff's Office,California,CA0190000,172,10.4,17.6,2,0,2013 to 2026
+new-york-police-department-ny,New York Police Department,New York,NY0303000,141,28.9,31.7,5,1,2013 to 2026
+houston-police-department-tx,Houston Police Department,Texas,TXHPD0000,140,40.7,19.7,2,1,2013 to 2026
+san-antonio-police-department-tx,San Antonio Police Department,Texas,TXSPD0000,111,30.6,13.7,1,0,2013 to 2026
+chicago-police-department-il,Chicago Police Department,Illinois,ILCPD0000,110,38.3,8.4,4,3,2013 to 2026
+las-vegas-metropolitan-police-department-nv,Las Vegas Metropolitan Police Department,Nevada,NV0021300,110,47.6,34.7,1,0,2013 to 2026
+jacksonville-sheriff-s-office-fl,Jacksonville Sheriff's Office,Florida,FL0162400,86,31.0,28.0,0,0,2013 to 2026
+albuquerque-police-department-nm,Albuquerque Police Department,New Mexico,NM0010100,84,38.7,23.8,1,0,2013 to 2026
+pennsylvania-state-police-pa,Pennsylvania State Police,Pennsylvania,PAPSPAB00,76,1.9,32.8,0,0,2013 to 2026
+oklahoma-city-police-department-ok,Oklahoma City Police Department,Oklahoma,OK0550600,70,41.3,25.0,3,1,2013 to 2026
+california-highway-patrol-ca,California Highway Patrol,California,CA0349900,69,8.3,18.5,1,0,2013 to 2026
+miami-dade-police-department-fl,Miami-Dade Police Department,Florida,FL0136800,68,2.4,19.4,0,0,2013 to 2026
+philadelphia-police-department-pa,Philadelphia Police Department,Pennsylvania,PAPEP0000,66,21.1,15.0,4,3,2013 to 2026
+columbus-division-of-police-oh,Columbus Division of Police,Ohio,OHCOP0000,65,32.7,22.8,3,0,2013 to 2026
+dallas-police-department-tx,Dallas Police Department,Texas,TXDPD0000,60,45.9,13.7,4,1,2013 to 2026
+kentucky-state-police-ky,Kentucky State Police,Kentucky,KYKSP2500,60,0.0,15.2,0,0,2013 to 2026
+austin-police-department-tx,Austin Police Department,Texas,TX2270100,59,43.8,35.3,4,0,2013 to 2026
+harris-county-sheriff-s-office-tx,Harris County Sheriff's Office,Texas,TX1010000,59,13.9,19.6,2,0,2013 to 2026
+san-diego-police-department-ca,San Diego Police Department,California,CA0371100,59,73.2,32.1,0,0,2013 to 2026
+st-louis-metropolitan-police-department-mo,St. Louis Metropolitan Police Department,Missouri,MOSPD0000,59,0.0,14.3,1,1,2013 to 2026
+indianapolis-metropolitan-police-department-in,Indianapolis Metropolitan Police Department,Indiana,INIPD0000,58,51.2,14.3,1,0,2013 to 2026
+denver-police-department-co,Denver Police Department,Colorado,CODPD0000,57,14.0,8.2,0,0,2013 to 2026
+san-bernardino-county-sheriff-s-department-ca,San Bernardino County Sheriff's Department,California,CA0360000,57,0.0,19.1,0,0,2013 to 2026
+riverside-county-sheriff-s-department-ca,Riverside County Sheriff's Department,California,CA0330000,56,17.1,17.8,1,0,2013 to 2026
+tucson-police-department-az,Tucson Police Department,Arizona,AZ0100300,56,20.0,25.0,1,0,2013 to 2026
+baltimore-police-department-md,Baltimore Police Department,Maryland,MDBPD0000,53,67.7,16.3,1,0,2013 to 2026
+tulsa-police-department-ok,Tulsa Police Department,Oklahoma,OK0720500,52,20.6,32.6,2,1,2013 to 2026
+texas-department-of-public-safety-tx,Texas Department of Public Safety,Texas,TX0000000,49,2.9,4.8,0,0,2013 to 2026
+fort-worth-police-department-tx,Fort Worth Police Department,Texas,TX2201200,47,53.6,18.2,1,1,2013 to 2026
+kansas-city-police-department-mo,Kansas City Police Department,Missouri,MOKPD0000,47,6.2,20.0,1,1,2013 to 2026
+louisville-metro-police-department-ky,Louisville Metro Police Department,Kentucky,KY0568000,45,62.5,15.4,1,0,2013 to 2026
+mesa-police-department-az,Mesa Police Department,Arizona,AZ0071700,45,16.2,24.3,1,0,2013 to 2026
+michigan-state-police-mi,Michigan State Police,Michigan,MI8200200,41,7.7,21.6,1,1,2013 to 2026
+bakersfield-police-department-ca,Bakersfield Police Department,California,CA0150200,40,46.7,17.6,0,0,2013 to 2026
+baltimore-county-police-department-md,Baltimore County Police Department,Maryland,MD0030100,40,51.9,28.6,0,0,2013 to 2026
+colorado-springs-police-department-co,Colorado Springs Police Department,Colorado,CO0210100,40,31.4,10.5,0,0,2013 to 2026
+fresno-police-department-ca,Fresno Police Department,California,CA0100500,39,63.0,34.4,0,0,2013 to 2026
+atlanta-police-department-ga,Atlanta Police Department,Georgia,GAAPD0000,37,7.4,9.7,5,1,2013 to 2026
+dc-metropolitan-police-department-dc,DC Metropolitan Police Department,District of Columbia,DCMPD0000,37,66.7,12.5,1,1,2013 to 2026
+detroit-police-department-mi,Detroit Police Department,Michigan,MI8234900,37,33.3,30.6,1,0,2013 to 2026
+milwaukee-police-department-wi,Milwaukee Police Department,Wisconsin,WIMPD0000,36,56.5,22.9,2,0,2013 to 2026
+broward-county-sheriff-s-office-fl,Broward County Sheriff's Office,Florida,FL0060000,35,15.0,24.2,1,0,2013 to 2026
+charlotte-mecklenburg-police-department-nc,Charlotte-Mecklenburg Police Department,North Carolina,NC0600100,35,24.0,33.3,1,0,2013 to 2026
+honolulu-police-department-hi,Honolulu Police Department,Hawaii,HI0020000,35,18.5,27.3,1,0,2013 to 2026
+long-beach-police-department-ca,Long Beach Police Department,California,CA0194100,35,25.0,13.8,0,0,2013 to 2026
+memphis-police-department-tn,Memphis Police Department,Tennessee,TNMPD0000,35,14.3,19.4,3,1,2013 to 2026
+oklahoma-highway-patrol-ok,Oklahoma Highway Patrol,Oklahoma,OKOHP0000,35,0.0,3.3,0,0,2013 to 2026
+polk-county-sheriff-s-office-fl,Polk County Sheriff's Office,Florida,FL0530000,35,0.0,34.4,0,0,2013 to 2026
+seattle-police-department-wa,Seattle Police Department,Washington,WASPD0000,35,63.6,27.6,0,0,2013 to 2026
+hillsborough-county-sheriff-s-office-fl,Hillsborough County Sheriff's Office,Florida,FL0290000,34,42.1,36.4,0,0,2013 to 2026
+orlando-police-department-fl,Orlando Police Department,Florida,FL0480400,34,38.1,12.5,1,0,2013 to 2026
+portland-police-bureau-or,Portland Police Bureau,Oregon,OR0260200,34,7.7,40.0,0,0,2013 to 2026
+pueblo-police-department-co,Pueblo Police Department,Colorado,CO0510100,34,12.5,9.1,0,0,2013 to 2026
+san-diego-county-sheriff-s-office-ca,San Diego County Sheriff's Office,California,CA0370000,34,23.8,37.9,1,1,2013 to 2026
+aurora-police-department-co,Aurora Police Department,Colorado,CO0010100,33,46.2,17.9,1,1,2013 to 2026
+cobb-county-police-department-ga,Cobb County Police Department,Georgia,GA0330200,33,8.7,32.3,0,0,2013 to 2026
+greenville-county-sheriff-s-office-sc,Greenville County Sheriff's Office,South Carolina,SC0230000,33,33.3,6.9,1,0,2013 to 2026
+pierce-county-sheriff-s-office-wa,Pierce County Sheriff's Office,Washington,WA0270000,33,8.0,21.4,0,0,2013 to 2026
+alaska-state-troopers-ak,Alaska State Troopers,Alaska,AKAST2100,32,8.7,13.8,0,0,2013 to 2026
+orange-county-sheriff-s-office-fl,Orange County Sheriff's Office,Florida,FL0480000,32,45.8,20.0,0,0,2013 to 2026
+san-francisco-police-department-ca,San Francisco Police Department,California,CA0380100,32,57.1,30.8,2,0,2013 to 2026
+metropolitan-nashville-police-department-tn,Metropolitan Nashville Police Department,Tennessee,TN0190100,31,72.0,30.8,1,1,2013 to 2026
+san-jose-police-department-ca,San Jose Police Department,California,CA0431300,31,33.3,39.3,0,0,2013 to 2026
+west-virginia-state-police-wv,West Virginia State Police,West Virginia,WVWSP0000,31,0.0,42.9,0,0,2013 to 2026
+kern-county-sheriff-s-department-ca,Kern County Sheriff's Department,California,CA0150000,30,23.5,21.7,0,0,2013 to 2026
+new-mexico-state-police-nm,New Mexico State Police,New Mexico,NMNSP9100,30,6.2,14.8,0,0,2013 to 2026
+new-york-state-police-ny,New York State Police,New York,NY1010300,30,22.7,39.3,1,0,2013 to 2026
+omaha-police-department-ne,Omaha Police Department,Nebraska,NB0280200,30,47.4,32.0,1,0,2013 to 2026
+san-bernardino-police-department-ca,San Bernardino Police Department,California,CA0361000,30,14.3,14.8,0,0,2013 to 2026
+anchorage-police-department-ak,Anchorage Police Department,Alaska,AK0010100,29,25.0,32.0,0,0,2013 to 2026
+arkansas-state-police-ar,Arkansas State Police,Arkansas,ARASP1700,28,7.7,3.7,0,0,2013 to 2026
+georgia-state-patrol-ga,Georgia State Patrol,Georgia,GAGSP0000,28,8.3,0.0,1,0,2013 to 2026
+san-bernardino-county-sheriff-s-office-ca,San Bernardino County Sheriff's Office,California,CA0360000,28,6.7,25.9,0,0,2013 to 2026
+spokane-police-department-wa,Spokane Police Department,Washington,WA0320400,28,50.0,30.4,0,0,2013 to 2026
+el-paso-police-department-tx,El Paso Police Department,Texas,TX0710200,26,9.1,30.4,1,0,2013 to 2026
+pinal-county-sheriff-s-office-az,Pinal County Sheriff's Office,Arizona,AZ0110000,26,0.0,13.6,0,0,2013 to 2026
+stockton-police-department-ca,Stockton Police Department,California,CA0390500,26,29.4,18.2,0,0,2013 to 2026
+amarillo-police-department-tx,Amarillo Police Department,Texas,TX1880100,25,0.0,12.0,0,0,2013 to 2026
+corpus-christi-police-department-tx,Corpus Christi Police Department,Texas,TX1780200,25,23.8,9.1,0,0,2013 to 2026
+salt-lake-city-police-department-ut,Salt Lake City Police Department,Utah,UT0180300,25,83.3,35.0,0,0,2013 to 2026
+santa-ana-police-department-ca,Santa Ana Police Department,California,CA0301900,25,13.3,17.4,0,0,2013 to 2026
+wichita-police-department-ks,Wichita Police Department,Kansas,KS0870300,24,26.7,33.3,0,0,2013 to 2026
+anaheim-police-department-ca,Anaheim Police Department,California,CA0300100,23,61.1,30.0,0,0,2013 to 2026
+arizona-department-of-public-safety-az,Arizona Department of Public Safety,Arizona,AZDPS1900,23,11.1,13.6,0,0,2013 to 2026
+bernalillo-county-sheriff-s-office-nm,Bernalillo County Sheriff's Office,New Mexico,NM0010000,23,27.8,14.3,0,0,2013 to 2026
+palm-beach-county-sheriff-s-office-fl,Palm Beach County Sheriff's Office,Florida,FL0500000,23,0.0,11.1,0,0,2013 to 2026
+reno-police-department-nv,Reno Police Department,Nevada,NV0160100,23,47.4,27.3,0,0,2013 to 2026
+arlington-police-department-tx,Arlington Police Department,Texas,TX2200100,22,36.8,21.1,3,0,2013 to 2026
+las-cruces-police-department-nm,Las Cruces Police Department,New Mexico,NM0070100,22,50.0,25.0,3,2,2013 to 2026
+sacramento-police-department-ca,Sacramento Police Department,California,CA0340400,22,58.8,50.0,0,0,2013 to 2026
+shreveport-police-department-la,Shreveport Police Department,Louisiana,LA0090100,22,13.3,15.0,1,0,2013 to 2026
+dekalb-county-police-department-ga,DeKalb County Police Department,Georgia,GA0440200,21,8.3,15.8,2,2,2013 to 2026
+glendale-police-department-az,Glendale Police Department,Arizona,AZ0071300,21,17.6,21.1,0,0,2013 to 2026
+miami-police-department-fl,Miami Police Department,Florida,FL0130600,21,30.8,20.0,0,0,2013 to 2026
+north-las-vegas-police-department-nv,North Las Vegas Police Department,Nevada,NV0020200,21,31.2,15.0,0,0,2013 to 2026
+u-s-customs-and-border-protection-tx,U.S. Customs and Border Protection,Texas,Border Patrol,21,0.0,0.0,7,5,2013 to 2026
+fontana-police-department-ca,Fontana Police Department,California,CA0360400,20,18.8,29.4,0,0,2013 to 2026
+fort-wayne-police-department-in,Fort Wayne Police Department,Indiana,IN0020100,20,33.3,11.1,1,0,2013 to 2026
+gwinnett-county-police-department-ga,Gwinnett County Police Department,Georgia,GA0670200,20,9.1,16.7,0,0,2013 to 2026
+jefferson-sheriff-s-office-la,Jefferson Sheriff's Office,Louisiana,LA0260000,20,17.6,22.2,1,1,2013 to 2026
+kansas-city-ks-police-department-ks,Kansas City KS Police Department,Kansas,KS1050200,20,21.4,0.0,0,0,2013 to 2026
+maricopa-county-sheriff-s-office-az,Maricopa County Sheriff's Office,Arizona,AZ0070000,20,9.1,45.0,0,0,2013 to 2026
+pasco-county-sheriff-s-office-fl,Pasco County Sheriff's Office,Florida,FL0510000,20,54.5,35.3,0,0,2013 to 2026
+virginia-state-police-va,Virginia State Police,Virginia,VAVSP0000,20,0.0,15.0,0,0,2013 to 2026
+bexar-county-sheriff-s-office-tx,Bexar County Sheriff's Office,Texas,TX0150000,19,35.3,31.6,2,0,2013 to 2026
+boston-police-department-ma,Boston Police Department,Massachusetts,MA0130100,19,23.1,40.0,0,0,2013 to 2026
+escambia-county-sheriff-s-office-fl,Escambia County Sheriff's Office,Florida,FL0170000,19,23.1,31.2,0,0,2013 to 2026
+indiana-state-police-in,Indiana State Police,Indiana,INISP0100,19,7.1,12.5,0,0,2013 to 2026
+little-rock-police-department-ar,Little Rock Police Department,Arkansas,AR0600200,19,33.3,11.1,0,0,2013 to 2026
+maine-state-police-me,Maine State Police,Maine,MEMDT0200,19,0.0,17.6,0,0,2013 to 2026
+pinellas-county-sheriff-s-office-fl,Pinellas County Sheriff's Office,Florida,FL0520000,19,0.0,17.6,0,0,2013 to 2026
+prince-george-s-county-police-department-md,Prince George's County Police Department,Maryland,MD0172100,19,15.4,20.0,1,0,2013 to 2026
+st-paul-police-department-mn,St. Paul Police Department,Minnesota,MN0620900,19,56.2,20.0,0,0,2013 to 2026
+birmingham-police-department-al,Birmingham Police Department,Alabama,AL0010200,18,16.7,17.6,1,0,2013 to 2026
+brevard-county-sheriff-s-office-fl,Brevard County Sheriff's Office,Florida,FL0050000,18,7.7,31.2,1,0,2013 to 2026
+greeley-police-department-co,Greeley Police Department,Colorado,CO0620200,18,9.1,16.7,0,0,2013 to 2026
+lakewood-police-department-co,Lakewood Police Department,Colorado,CO0300400,18,5.9,5.9,0,0,2013 to 2026
+montgomery-county-police-department-md,Montgomery County Police Department,Maryland,MD0160400,18,61.5,33.3,0,0,2013 to 2026
+spokane-county-sheriff-s-office-wa,Spokane County Sheriff's Office,Washington,WA0320000,18,16.7,33.3,0,0,2013 to 2026
+adams-county-sheriff-s-office-co,Adams County Sheriff's Office,Colorado,CO0010000,17,0.0,6.2,0,0,2013 to 2026
+boise-police-department-id,Boise Police Department,Idaho,ID0010100,17,37.5,20.0,0,0,2013 to 2026
+henderson-police-department-nv,Henderson Police Department,Nevada,NV0020300,17,66.7,25.0,0,0,2013 to 2026
+independence-police-department-mo,Independence Police Department,Missouri,MO0480600,17,0.0,20.0,0,0,2013 to 2026
+maryland-state-police-md,Maryland State Police,Maryland,MDMSP2600,17,8.3,31.2,0,0,2013 to 2026
+missouri-state-highway-patrol-mo,Missouri State Highway Patrol,Missouri,MOMHP0000,17,0.0,6.7,0,0,2013 to 2026
+norfolk-police-department-va,Norfolk Police Department,Virginia,VA1170000,17,27.3,37.5,1,0,2013 to 2026
+ogden-police-department-ut,Ogden Police Department,Utah,UT0290100,17,53.8,17.6,0,0,2013 to 2026
+riverside-county-sheriff-s-office-ca,Riverside County Sheriff's Office,California,CA0330000,17,33.3,17.6,0,0,2013 to 2026
+sacramento-county-sheriff-s-department-ca,Sacramento County Sheriff's Department,California,CA0340000,17,21.4,41.7,0,0,2013 to 2026
+springfield-police-department-mo,Springfield Police Department,Missouri,MO0390300,17,13.3,25.0,0,0,2013 to 2026
+st-louis-county-police-department-mo,St. Louis County Police Department,Missouri,MO0950000,17,33.3,26.7,0,0,2013 to 2026
+unified-police-department-of-greater-salt-lake-ut,Unified Police Department of Greater Salt Lake,Utah,UT0180000,17,28.6,31.2,0,0,2013 to 2026
+cincinnati-police-department-oh,Cincinnati Police Department,Ohio,OHCIP0000,16,33.3,35.7,0,0,2013 to 2026
+des-moines-police-department-ia,Des Moines Police Department,Iowa,IA0770300,16,44.4,0.0,0,0,2013 to 2026
+huntsville-police-department-al,Huntsville Police Department,Alabama,AL0470100,16,41.7,38.5,2,1,2013 to 2026
+rapid-city-police-department-sd,Rapid City Police Department,South Dakota,SD0510100,16,23.1,42.9,0,0,2013 to 2026
+redding-police-department-ca,Redding Police Department,California,CA0450200,16,0.0,53.8,0,0,2013 to 2026
+tacoma-police-department-wa,Tacoma Police Department,Washington,WA0270300,16,7.1,27.3,1,0,2013 to 2026
+tempe-police-department-az,Tempe Police Department,Arizona,AZ0072900,16,33.3,14.3,0,0,2013 to 2026
+toledo-police-department-oh,Toledo Police Department,Ohio,OH0480700,16,46.2,26.7,0,0,2013 to 2026
+volusia-county-sheriff-s-office-fl,Volusia County Sheriff's Office,Florida,FL0640000,16,35.7,53.8,0,0,2013 to 2026
+billings-police-department-mt,Billings Police Department,Montana,MT0560100,15,25.0,16.7,0,0,2013 to 2026
+chandler-police-department-az,Chandler Police Department,Arizona,AZ0070500,15,18.2,26.7,0,0,2013 to 2026
+chattanooga-police-department-tn,Chattanooga Police Department,Tennessee,TN0330100,15,20.0,30.8,0,0,2013 to 2026
+cleveland-division-of-police-oh,Cleveland Division of Police,Ohio,OHCLP0000,15,25.0,8.3,1,0,2013 to 2026
+delaware-state-police-de,Delaware State Police,Delaware,DEDSP1000,15,11.1,15.4,0,0,2013 to 2026
+hawaii-county-police-department-hi,Hawaii County Police Department,Hawaii,HI0010000,15,15.4,20.0,0,0,2013 to 2026
+oakland-police-department-ca,Oakland Police Department,California,CA0010900,15,30.0,9.1,0,0,2013 to 2026
+orange-county-sheriff-s-department-ca,Orange County Sheriff's Department,California,CA0305100,15,18.2,27.3,0,0,2013 to 2026
+oregon-state-police-or,Oregon State Police,Oregon,OR0SP2N00,15,18.2,16.7,0,0,2013 to 2026
+scottsdale-police-department-az,Scottsdale Police Department,Arizona,AZ0072500,15,30.0,36.4,0,0,2013 to 2026
+st-petersburg-police-department-fl,St. Petersburg Police Department,Florida,FL0521400,15,0.0,53.8,0,0,2013 to 2026
+suffolk-county-police-department-ny,Suffolk County Police Department,New York,NY0510100,15,30.0,30.8,0,0,2013 to 2026
+tampa-police-department-fl,Tampa Police Department,Florida,FL0290200,15,36.4,20.0,0,0,2013 to 2026
+westminster-police-department-co,Westminster Police Department,Colorado,CO0010500,15,7.7,14.3,0,0,2013 to 2026
+baton-rouge-police-department-la,Baton Rouge Police Department,Louisiana,LA0170200,14,55.6,36.4,0,0,2013 to 2026
+beaumont-police-department-tx,Beaumont Police Department,Texas,TX1230100,14,0.0,23.1,0,0,2013 to 2026
+fayetteville-police-department-nc,Fayetteville Police Department,North Carolina,NC0260100,14,11.1,23.1,0,0,2013 to 2026
+marion-county-sheriff-s-office-fl,Marion County Sheriff's Office,Florida,FL0420000,14,27.3,8.3,1,0,2013 to 2026
+minneapolis-police-department-mn,Minneapolis Police Department,Minnesota,MN0271100,14,69.2,23.1,2,2,2013 to 2026
+pennsylvania-state-police-department-pa,Pennsylvania State Police Department,Pennsylvania,PAPSP0000,14,0.0,27.3,0,0,2013 to 2026
+pittsburgh-bureau-of-police-pa,Pittsburgh Bureau of Police,Pennsylvania,PAPPD0000,14,0.0,10.0,1,0,2013 to 2026
+shelby-county-sheriff-s-office-tn,Shelby County Sheriff's Office,Tennessee,TN0790000,14,8.3,21.4,0,0,2013 to 2026
+u-s-customs-and-border-protection-ca,U.S. Customs and Border Protection,California,Border Patrol,14,0.0,9.1,1,1,2013 to 2026
+vancouver-police-department-wa,Vancouver Police Department,Washington,WA0060300,14,33.3,16.7,0,0,2013 to 2026
+virginia-beach-police-department-va,Virginia Beach Police Department,Virginia,VA1280000,14,8.3,15.4,0,0,2013 to 2026
+akron-police-department-oh,Akron Police Department,Ohio,OH0770100,13,33.3,27.3,0,0,2013 to 2026
+alameda-county-sheriff-s-office-ca,Alameda County Sheriff's Office,California,CA0010000,13,25.0,25.0,2,0,2013 to 2026
+anderson-county-sheriff-s-office-sc,Anderson County Sheriff's Office,South Carolina,SC0040000,13,14.3,15.4,0,0,2013 to 2026
+evansville-police-department-in,Evansville Police Department,Indiana,IN0820100,13,66.7,66.7,0,0,2013 to 2026
+fresno-county-sheriff-s-office-ca,Fresno County Sheriff's Office,California,CA0100000,13,0.0,36.4,1,0,2013 to 2026
+irving-police-department-tx,Irving Police Department,Texas,TX0571500,13,0.0,0.0,0,0,2013 to 2026
+knox-county-sheriff-s-office-tn,Knox County Sheriff's Office,Tennessee,TN0470000,13,0.0,18.2,0,0,2013 to 2026
+knoxville-police-department-tn,Knoxville Police Department,Tennessee,TN0470100,13,33.3,38.5,0,0,2013 to 2026
+lake-county-sheriff-s-office-fl,Lake County Sheriff's Office,Florida,FL0350000,13,0.0,50.0,0,0,2013 to 2026
+lubbock-police-department-tx,Lubbock Police Department,Texas,TX1520200,13,12.5,40.0,0,0,2013 to 2026
+mobile-police-department-al,Mobile Police Department,Alabama,AL0020100,13,25.0,23.1,0,0,2013 to 2026
+montgomery-county-sheriff-s-office-tx,Montgomery County Sheriff's Office,Texas,TX1700000,13,11.1,41.7,0,0,2013 to 2026
+new-orleans-police-department-la,New Orleans Police Department,Louisiana,LANPD0000,13,87.5,27.3,0,0,2013 to 2026
+newark-police-department-nj,Newark Police Department,New Jersey,NJNPD1000,13,33.3,0.0,3,1,2013 to 2026
+ontario-police-department-ca,Ontario Police Department,California,CA0360700,13,22.2,45.5,0,0,2013 to 2026
+richmond-county-sheriff-s-office-ga,Richmond County Sheriff's Office,Georgia,GA1210000,13,0.0,40.0,0,0,2013 to 2026
+richmond-police-department-va,Richmond Police Department,Virginia,VA1220000,13,50.0,33.3,1,1,2013 to 2026
+salem-police-department-or,Salem Police Department,Oregon,OR0240200,13,0.0,45.5,0,0,2013 to 2026
+savannah-police-department-ga,Savannah Police Department,Georgia,GA0250300,13,9.1,16.7,1,0,2013 to 2026
+sparks-police-department-nv,Sparks Police Department,Nevada,NV0160200,13,10.0,33.3,0,0,2013 to 2026
+arapahoe-county-sheriff-s-office-co,Arapahoe County Sheriff's Office,Colorado,CO0030000,12,10.0,0.0,0,0,2013 to 2026
+arvada-police-department-co,Arvada Police Department,Colorado,CO0300100,12,0.0,0.0,0,0,2013 to 2026
+clayton-county-police-department-ga,Clayton County Police Department,Georgia,GA0310100,12,11.1,0.0,0,0,2013 to 2026
+florida-highway-patrol-fl,Florida Highway Patrol,Florida,FL0379400,12,0.0,27.3,0,0,2013 to 2026
+fort-lauderdale-police-department-fl,Fort Lauderdale Police Department,Florida,FL0060300,12,25.0,30.0,0,0,2013 to 2026
+garland-police-department-tx,Garland Police Department,Texas,TX0571100,12,0.0,18.2,0,0,2013 to 2026
+gary-police-department-in,Gary Police Department,Indiana,IN0450500,12,16.7,0.0,0,0,2013 to 2026
+hernando-county-sheriff-s-office-fl,Hernando County Sheriff's Office,Florida,FL0270000,12,11.1,36.4,0,0,2013 to 2026
+jackson-police-department-ms,Jackson Police Department,Mississippi,MS0250100,12,10.0,18.2,2,0,2013 to 2026
+jersey-city-police-department-nj,Jersey City Police Department,New Jersey,NJ009C100,12,16.7,18.2,0,0,2013 to 2026
+kent-police-department-wa,Kent Police Department,Washington,WA0170700,12,10.0,18.2,0,0,2013 to 2026
+lee-county-sheriff-s-office-fl,Lee County Sheriff's Office,Florida,FL0360000,12,0.0,18.2,0,0,2013 to 2026
+louisiana-state-police-la,Louisiana State Police,Louisiana,LALSP1800,12,37.5,22.2,1,0,2013 to 2026
+modesto-police-department-ca,Modesto Police Department,California,CA0500200,12,40.0,16.7,1,0,2013 to 2026
+mohave-county-sheriff-s-office-az,Mohave County Sheriff's Office,Arizona,AZ0080000,12,0.0,27.3,0,0,2013 to 2026
+riverside-police-department-ca,Riverside Police Department,California,CA0331300,12,0.0,16.7,0,0,2013 to 2026
+st-johns-county-sheriff-s-office-fl,St. Johns County Sheriff's Office,Florida,FL0550000,12,16.7,37.5,0,0,2013 to 2026
+tulare-county-sheriff-s-office-ca,Tulare County Sheriff's Office,California,CA0540000,12,25.0,54.5,0,0,2013 to 2026
+u-s-marshals-service-az,U.S. Marshals Service,Arizona,US Marshals,12,14.3,0.0,0,0,2013 to 2026
+yavapai-county-sheriff-s-office-az,Yavapai County Sheriff's Office,Arizona,AZ0130000,12,28.6,30.0,0,0,2013 to 2026

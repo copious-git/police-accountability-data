@@ -1,0 +1,6 @@
+# macOS artefacts. The Icon file carries a literal carriage return in its name and gets
+# committed silently from Desktop folders if it is not excluded.
+.DS_Store
+Icon
+Icon?
+._*
