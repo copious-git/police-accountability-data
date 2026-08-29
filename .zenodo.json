@@ -1,0 +1,61 @@
+{
+  "title": "Police accountability data: United Kingdom, United States and Australia",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "PoliceComplaint.com",
+      "affiliation": "Copious Ltd"
+    }
+  ],
+  "description": "<p>Derived, machine-readable datasets on police complaints, stop and search, use of force and deaths following police contact, for the United Kingdom, the United States and Australia.</p><p>Every figure is computed from official open data by code and published with its source, its period and its denominator attached. No figure was written, estimated or rounded by a language model. Where a rate cannot be computed honestly, the row is marked unpublishable with the reason recorded rather than being dropped.</p><p><strong>Contents.</strong> UK stop-and-search ethnic disparity by police force, computed as each ethnic group's share of recorded searches divided by that group's share of the force area's own resident population, joining data.police.uk to Census 2021 (TS021) via the ONS local-authority-to-police-force-area lookup, with a national summary; UK stop-and-search outcomes by force; UK complaint review outcomes by force, including how often each force's own decision was overturned on review; UK deaths following police contact by IOPC category and by year; United States police killings by state and by department, 2013 to 2026, including whether any officer was criminally charged and how the prosecution ended; Australian complaints per 100,000 people and per 100 sworn staff, and deaths in police custody by Indigenous status, for all eight states and territories.</p><p><strong>Important limitations.</strong> A disparity ratio is a measured difference in outcomes, not proof that anyone acted unlawfully, and it does not establish a cause. A recorded complaint is an allegation, not a finding. Complaint counts reflect recording practice: a force or jurisdiction that records complaints readily logs more of them, which is why the Australian figures span more than fifteen times between states. The City of London ratio is an artefact of a very small resident population against a large daytime population and should not be ranked against territorial forces. The UK government's Ethnicity Facts and Figures service already publishes per-force stop-and-search rates by ethnicity from the same Census; this dataset differs in recency and in publishing a ratio of shares alongside outcome data rather than a rate per 1,000. Full method and caveats are in METHOD.md.</p><p>Only aggregates are redistributed. No source's record-level data is republished.</p>",
+  "keywords": [
+    "police accountability",
+    "police complaints",
+    "stop and search",
+    "use of force",
+    "deaths in custody",
+    "police killings",
+    "criminal justice",
+    "open data",
+    "United Kingdom",
+    "United States",
+    "Australia"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.policecomplaint.com/data/",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://data.police.uk/",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.policeconduct.gov.uk/",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.ons.gov.uk/",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://mappingpoliceviolence.us/",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.pc.gov.au/ongoing/report-on-government-services",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "Derived aggregates only. Underlying sources carry their own licences: data.police.uk, the Independent Office for Police Conduct, the Home Office and the Office for National Statistics under the Open Government Licence v3.0; the Report on Government Services under CC BY 4.0; Mapping Police Violence under the publisher's own terms; US Census Bureau data in the public domain."
+}

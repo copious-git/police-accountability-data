@@ -1,0 +1,27 @@
+# This file drives GitHub's own "Cite this repository" widget.
+# Zenodo ignores it: where a repository contains both CITATION.cff and .zenodo.json,
+# Zenodo uses only the .zenodo.json. Keep the two in step by hand.
+cff-version: 1.2.0
+title: "Police accountability data: United Kingdom, United States and Australia"
+message: "If you use this data, please cite it as below, and cite the original publisher of any underlying figure you rely on."
+type: dataset
+authors:
+  - name: "PoliceComplaint.com"
+    website: "https://www.policecomplaint.com/"
+repository-code: "https://github.com/copious-git/police-accountability-data"
+url: "https://www.policecomplaint.com/data/"
+abstract: >-
+  Derived, machine-readable datasets on police complaints, stop and search, use of force
+  and deaths following police contact for the United Kingdom, the United States and
+  Australia. Every figure is computed from official open data by code and carries its
+  source, period and denominator. A disparity ratio is a measured difference in outcomes,
+  not proof of unlawful conduct; a recorded complaint is an allegation, not a finding.
+keywords:
+  - police accountability
+  - police complaints
+  - stop and search
+  - deaths in custody
+  - open data
+license: CC-BY-4.0
+version: 1.0.0
+date-released: "2026-08-29"
