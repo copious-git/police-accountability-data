@@ -86,6 +86,13 @@ All verified against the files in this repository at the commit you are reading.
 
 - **A disparity ratio is not proof of unlawful conduct.** It is a measured difference in
   outcomes. It does not establish a cause and it does not identify anyone's behaviour.
+- **The numerator and denominator use different bases.** Searches carry *officer-defined*
+  ethnicity; the Census records *self-defined* ethnicity. Nationally, people recorded as
+  Mixed are 0.5% of searches against 2.9% of residents, a gap too large to be real:
+  officers rarely record "Mixed", so those people are recorded as something else at the
+  point of search, which inflates whichever category absorbs them. **The direction of the
+  finding is solid; the magnitude is uncertain.** See `METHOD.md`, which sets out the test
+  we ran against the government's own published rates.
 - **City of London is an artefact, not an outlier.** Its ratio is the highest in the UK file
   at **10.6x**, because the City has roughly 8,600 residents and several hundred thousand
   daily workers and visitors. A residence-based denominator is the wrong denominator there.

@@ -39,6 +39,32 @@ be resolved cleanly enough for the denominator to be trustworthy. Five forces ar
 that basis and are listed in the file with `reason`. A further three forces published no
 stop-and-search data at all and appear in the outcomes file with a `note`.
 
+**The two halves of the ratio are not recorded the same way.** This is the most important
+limitation on the dataset and it cuts against the headline figure, not for it.
+
+The numerator is **officer-defined** ethnicity: what the officer recorded at the time,
+without asking. The denominator is the **self-defined** ethnicity people gave the 2021
+Census about themselves. Those are different measurements and in practice they do not use
+the same categories.
+
+The evidence is in the data itself. Nationally, people recorded as **Mixed** account for
+**0.5%** of searches against **2.9%** of residents. That gap is far too large to be real.
+Officers rarely record "Mixed" at all, so people the Census counts as Mixed are recorded as
+something else at the point of search, most often Black or White. That inflates whichever
+category absorbs them, and on these figures it inflates the Black ratio.
+
+**Treat the direction as solid and the magnitude as uncertain.** A disparity exists on any
+reasonable measure. The exact multiple depends on a recording practice the forces control.
+
+We tested this. Recomputing our data as a rate per 1,000 people, the all-ethnicities figure
+comes out at **8.5 per 1,000 per year** against the government's **8.9** for year ending
+March 2023 — close, which suggests the overall method is sound. But **Black** comes out at
+**37.4** against the government's **24.5**, and **Mixed** at **9.3** against **9.9**. The
+divergence is concentrated exactly where the category mismatch predicts it would be.
+
+**Do not present these ratios as a corrected or updated version of the official statistic.**
+They are computed on a different basis and answer a related but different question.
+
 **Known artefact.** City of London Police returns the highest ratio in the file. The City has
 roughly 8,600 residents against a very large daytime working population, so a residence-based
 denominator materially overstates disparity there. The row is published rather than deleted,
