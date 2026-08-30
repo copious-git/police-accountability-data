@@ -1,0 +1,25 @@
+{
+  "title": "Police accountability data: UK, US and Australia",
+  "description_html": "Derived, machine-readable datasets on police complaints, stop and search, use of force and deaths following police contact. Every figure is computed from official open data by code, and published with its source, its period and its denominator attached. No figure was written, estimated or rounded by a language model.<br><br>A disparity ratio is a measured difference in outcomes. It is not proof that anyone acted unlawfully and it does not establish a cause. A recorded complaint is an allegation, not a finding.",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "source": "PoliceComplaint.com",
+  "source_url": "https://www.policecomplaint.com/data/",
+  "about": "Method and caveats",
+  "about_url": "https://github.com/copious-git/police-accountability-data/blob/main/METHOD.md",
+  "databases": {
+    "police-accountability": {
+      "tables": {
+        "stop_search_ethnic_disparity_by_force": {
+          "description": "Each ethnic group's share of recorded stop and searches divided by that group's share of the force area's resident population. Searches are recorded by OFFICER-DEFINED ethnicity; Census denominators are SELF-DEFINED. The direction is solid, the magnitude is uncertain. City of London is an artefact of a very small resident population against a large daytime population."
+        },
+        "complaint_review_outcomes_by_force": {
+          "description": "How often each force's own complaint decision was overturned on review."
+        },
+        "police_killings_by_agency": {
+          "description": "US police killings 2013-2026 by department, including whether any officer was criminally charged and how the prosecution ended."
+        }
+      }
+    }
+  }
+}

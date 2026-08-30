@@ -1,4 +1,6 @@
-# Licence
+# Licence and attribution
+
+The full legal code is in [`LICENSE`](LICENSE).
 
 ## The derived data in this repository
 

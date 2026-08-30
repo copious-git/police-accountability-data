@@ -7,6 +7,17 @@ Open, machine-readable datasets on police complaints, stop and search, use of fo
 deaths following police contact, for the **United Kingdom**, the **United States** and
 **Australia**.
 
+> **Correction, 2026-08-30 (v1.1).** The UK disparity figures in v1.0.0 were computed on an
+> incomplete denominator. Census 2021 uses 2021 local-authority codes, and the local-authority
+> to police-force lookup we joined against uses 2024 codes, so the 17 districts abolished in
+> the April 2023 local government reorganisation matched nothing and **1,686,893 residents were
+> silently dropped**. Cumbria and North Yorkshire lost most or all of their populations; Avon
+> and Somerset lost the whole of Somerset. A partial denominator produces a wrong ratio rather
+> than a blank one, so the affected figures were understated. Corrected values: Avon and
+> Somerset Black **4.3x → 5.9x**, North Yorkshire Black **4.0x → 5.6x**, North Yorkshire Asian
+> **1.3x → 2.6x**, national Black **4.4x → 4.5x**, and Cumbria is computable for the first
+> time. The build now fails loudly on any unmatched local authority instead of continuing.
+
 Everything here is **derived** data: computed from official open sources by code, then
 published with the source, the period and the denominator attached. No figure in this
 repository was written, estimated or rounded by a language model.
@@ -58,7 +69,7 @@ All verified against the files in this repository at the commit you are reading.
 - **1,397,874** stop and search records across **41** of 44 forces. Three forces published
   no stop-and-search data at all and are named in the file rather than dropped.
 - Nationally, Black people accounted for **18.2%** of searches with a recorded ethnicity
-  against **4.2%** of residents, a ratio of **4.4x**. That national figure is computed over
+  against **4.0%** of residents, a ratio of **4.5x**. That national figure is computed over
   **1,151,285** searches across the 36 forces with a publishable denominator, and is in
   `uk/stop-search-ethnic-disparity-national.csv` with the shares it is derived from.
 - **24.5%** of completed complaint reviews found the force's own handling was not reasonable
@@ -159,7 +170,7 @@ publisher as well. Each dataset names its sources.
 
 ## Licence
 
-Derived data in this repository: [CC BY 4.0](LICENSE.md). Attribute to
+Derived data in this repository: [CC BY 4.0](LICENSE). Attribute to
 PoliceComplaint.com and, where you rely on an underlying figure, to the original publisher
 named in the table above.
 
