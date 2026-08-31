@@ -94,6 +94,42 @@ The IOPC's own categories, kept separate rather than collapsed into a single fig
 category names are the publisher's. Inclusion in a category does not imply that the police
 caused the death or acted wrongly.
 
+### Two discontinuities in the series, both the publisher's, both documented on the source
+
+The IOPC footnotes two year columns in its own time-series tables, and both changes affect
+the "deaths following other police contact" category rather than the others:
+
+- **2010/11.** The source records a change in definition, narrowing the category to a
+  subset of cases.
+- **2015/16.** The source attributes the rise to an expansion of IOPC investigative
+  resource and capacity.
+
+**The series therefore does not measure one constant thing across 21 years.** A rise after
+either year reflects, at least in part, what the IOPC counted and how much of it it had the
+capacity to investigate. Do not read the 2004/05 figure and the 2024/25 figure as a
+like-for-like comparison, and do not describe any change across those boundaries as a trend
+in deaths.
+
+The 3,666 total sums across both boundaries and is published as a count of records, not as a
+measure of a single consistently defined thing.
+
+### A parser fault that understated two years, corrected 2026-08-31
+
+Those two footnote markers are the reason for a correction. Our ingest matched year columns
+with a pattern that did not tolerate the markers, so `10/11*` and `15/16**` were dropped
+silently from the "other police contact" sheet alone. Both years published a category total
+of zero, which is not a value the IOPC ever recorded.
+
+| Year | Published until 2026-08-31 | Corrected |
+|---|---|---|
+| 2010/11 | 95 | 152 |
+| 2015/16 | 99 | 205 |
+| All years, all categories | 3,503 | 3,666 |
+
+No other year, category or file was affected. The apparent jump from 99 to 234 between
+2015/16 and 2016/17 in the earlier files was mostly this fault and not a real step.
+`scripts/ingest_deaths.py` now fails loudly if any sheet yields other than 21 year columns.
+
 ---
 
 ## United States
