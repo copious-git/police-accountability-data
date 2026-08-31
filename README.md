@@ -156,6 +156,29 @@ The pipeline is deliberately boring: Python reads the source files, counts, divi
 writes. Where a rate cannot be computed honestly, the row is marked unpublishable and the
 reason is recorded rather than the row being dropped.
 
+## Related resources
+
+Every file here is also rendered as a browsable page, so a reader can check a figure without
+downloading a CSV. Each page names the source file it was computed from.
+
+- [Open data downloads and methodology](https://www.policecomplaint.com/data/) — the same nine
+  files with per-column notes and the publishability thresholds
+- [Who gets stopped and searched in England and Wales](https://www.policecomplaint.com/uk/reports/who-gets-stopped-and-searched/)
+  — renders `uk/stop-search-ethnic-disparity-by-force.csv` and the national file
+- [All 44 UK police forces ranked by complaints](https://www.policecomplaint.com/uk/forces/) —
+  renders `uk/complaint-review-outcomes-by-force.csv` and the stop-and-search outcomes file
+- [Deaths during or following police contact, 21 years of data](https://www.policecomplaint.com/uk/reports/deaths-following-police-contact/)
+  — renders both deaths files
+- [US police departments ranked by people killed by police](https://www.policecomplaint.com/states/agencies/)
+  — renders `us/police-killings-by-agency.csv`; state totals are at
+  [the US state index](https://www.policecomplaint.com/states/)
+- [Police complaints and deaths in custody in Australia, by state](https://www.policecomplaint.com/australia/)
+  — renders `australia/complaints-and-deaths-in-custody-by-state.csv`
+- [Compare two UK police forces side by side](https://www.policecomplaint.com/uk/tools/compare/)
+  — a tool built on the UK files
+- [Press and media](https://www.policecomplaint.com/press/) — who publishes this, what may be
+  reused, and the commercial interest disclosed in full
+
 ## How to cite
 
 Cite the **concept DOI**, which always resolves to the most recent version:
