@@ -1,0 +1,21 @@
+site_name: Police accountability data
+site_description: Column-level documentation for nine derived datasets on police complaints, stop and search, and deaths following police contact in the UK, US and Australia.
+site_url: https://police-accountability-data.readthedocs.io/
+repo_url: https://github.com/copious-git/police-accountability-data
+repo_name: copious-git/police-accountability-data
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Method: method.md
+  - Corrections: corrections.md
+  - Column reference:
+      - UK stop and search outcomes: reference/uk-stop-and-search-outcomes-by-force.md
+      - UK stop and search disparity, by force: reference/uk-stop-search-ethnic-disparity-by-force.md
+      - UK stop and search disparity, national: reference/uk-stop-search-ethnic-disparity-national.md
+      - UK complaint review outcomes: reference/uk-complaint-review-outcomes-by-force.md
+      - UK deaths, by year: reference/uk-deaths-by-year.md
+      - UK deaths, by category: reference/uk-deaths-by-category.md
+      - US police killings, by state: reference/us-police-killings-by-state.md
+      - US police killings, by agency: reference/us-police-killings-by-agency.md
+      - Australia complaints and deaths in custody: reference/australia-complaints-and-deaths.md
