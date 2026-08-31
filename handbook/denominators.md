@@ -41,6 +41,10 @@ exist.** It exists on half the forces.
 **Four forces publish a strip-search denominator of zero.** Dividing by it raises `ZeroDivisionError`
 if you are lucky and produces silent nonsense if you are not. Guard for it.
 
+You can check any of these against the rendered page for that force at
+[All 44 UK police forces](https://www.policecomplaint.com/uk/forces/), which shows the same
+numerator and denominator pairs.
+
 ## The US file has the same shape
 
 `us/police-killings-by-state.csv` carries `bodycam_denominator` as its own column because
@@ -52,6 +56,10 @@ understates the rate by 32%.**
 
 `mental_illness_recorded_pct` has the same construction and **no published denominator column**.
 Read it as directional only.
+
+The state figures are rendered at
+[the US state index](https://www.policecomplaint.com/states/), and the per-department ones at
+[US police departments ranked by people killed by police](https://www.policecomplaint.com/states/agencies/).
 
 `us/police-killings-by-agency.csv` deliberately publishes **no** `bodycam_denominator` and no
 `acquitted` column: the per-agency counts are small enough that publishing them would identify

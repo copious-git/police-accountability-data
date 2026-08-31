@@ -64,6 +64,10 @@ where  no_further_action_d > 0
 order  by nfa_pct desc;
 ```
 
+To sanity-check a result against a rendered page, use
+[the side-by-side force comparison tool](https://www.policecomplaint.com/uk/tools/compare/) or
+[the deaths series](https://www.policecomplaint.com/uk/reports/deaths-following-police-contact/).
+
 ## Before you publish anything from this
 
 * A disparity ratio is a measured difference in outcomes, not proof of unlawful conduct.

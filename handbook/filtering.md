@@ -31,6 +31,10 @@ forces.**
 Exclude City of London explicitly. The flag is about whether a ratio could be *computed* honestly,
 not about whether it is *comparable*.
 
+The filtered ranking is rendered at
+[Who gets stopped and searched in England and Wales](https://www.policecomplaint.com/uk/reports/who-gets-stopped-and-searched/),
+with City of London excluded for the reason above.
+
 ## Small denominators in the complaints file
 
 `uk/complaint-review-outcomes-by-force.csv` has one force under 30 completed reviews:
