@@ -25,7 +25,7 @@ Every figure below is re-derived from the shipped CSVs. Nothing here is asserted
    [Filtering](filtering.md).
 3. **Reading a per-agency US rate as comparable.** `bodycam_active_pct` is computed over a
    *different, smaller* denominator than `killed_by_police`. In California that is 1,444 against
-   2,118 — using the wrong one understates by **32%**.
+   2,118, so using the wrong one understates by **32%**.
 
 ## One caveat that outranks all of the above
 

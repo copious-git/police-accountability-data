@@ -22,7 +22,7 @@ dividing by `searches_total`:
 
 ### Why sampling one force will mislead you
 
-On the Metropolitan Police the two denominators are 373,321 and 373,367 — a difference of 46
+On the Metropolitan Police the two denominators are 373,321 and 373,367, a difference of 46
 records, and the rate is 67.5% either way. **Checking the Met alone would tell you the trap does not
 exist.** It exists on half the forces.
 
