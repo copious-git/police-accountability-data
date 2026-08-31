@@ -18,6 +18,15 @@ deaths following police contact, for the **United Kingdom**, the **United States
 > **1.3x → 2.6x**, national Black **4.4x → 4.5x**, and Cumbria is computable for the first
 > time. The build now fails loudly on any unmatched local authority instead of continuing.
 
+> **Correction, 2026-08-31 (v1.1.1).** The UK deaths series was understated by **163 deaths**.
+> The IOPC footnotes two of its year column headers, and our ingest matched year headers on a
+> pattern that did not allow for a trailing footnote marker, so **2010/11 and 2015/16 were dropped
+> silently** and published as zero rather than failing. All of the difference falls in one
+> category: deaths following other police contact, **1,299 to 1,462**. The corrected all-category
+> total is **3,666, not 3,503**. The parser now asserts that exactly 21 year columns are found and
+> aborts otherwise. The correction table is in `METHOD.md`. Versions of this dataset published
+> before 2026-08-31, including Zenodo v1.1.0, carry the understated figure and should not be used.
+
 Everything here is **derived** data: computed from official open sources by code, then
 published with the source, the period and the denominator attached. No figure in this
 repository was written, estimated or rounded by a language model.
