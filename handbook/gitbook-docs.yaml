@@ -1,6 +1,7 @@
-site: Using police accountability data
-structure:
-  - page: README.md
-  - page: denominators.md
-  - page: filtering.md
-  - page: examples.md
+site:
+  title: Using police accountability data
+  structure:
+    - page: README.md
+    - page: denominators.md
+    - page: filtering.md
+    - page: examples.md
