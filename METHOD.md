@@ -94,6 +94,24 @@ The IOPC's own categories, kept separate rather than collapsed into a single fig
 category names are the publisher's. Inclusion in a category does not imply that the police
 caused the death or acted wrongly.
 
+### Correction, 2026-08-31 (v1.1.2): the national denominator covered too many forces
+
+The national row compared the searches of the **36 forces that record ethnicity well enough to
+publish** against the resident population of **all 41 forces in the dataset**, including the five
+whose own searches are suppressed. A numerator and a denominator drawn from different sets of
+forces do not describe anything. Both sides are now restricted to the same 36 forces.
+
+Only the national row changes. Every per-force figure is unaffected, and the headline Black ratio
+is 4.5 either way.
+
+| National figure | Before | After |
+|---|---|---|
+| Asian, share of residents | 9.1% | 8.7% |
+| White, share of residents | 81.9% | 82.3% |
+| Other, disparity ratio | 1.6 | 1.7 |
+| **Black, disparity ratio** | **4.5** | **4.5 (unchanged)** |
+
+
 ### Two discontinuities in the series, both the publisher's, both documented on the source
 
 The IOPC footnotes two year columns in its own time-series tables, and both changes affect
