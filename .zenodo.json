@@ -32,6 +32,51 @@
       "resource_type": "other"
     },
     {
+      "identifier": "https://www.policecomplaint.com/uk/reports/who-gets-stopped-and-searched/",
+      "relation": "isSourceOf",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.policecomplaint.com/uk/reports/deaths-following-police-contact/",
+      "relation": "isSourceOf",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.policecomplaint.com/uk/forces/",
+      "relation": "isSourceOf",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.policecomplaint.com/uk/tools/compare/",
+      "relation": "isSourceOf",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.policecomplaint.com/states/",
+      "relation": "isSourceOf",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.policecomplaint.com/states/agencies/",
+      "relation": "isSourceOf",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.policecomplaint.com/australia/",
+      "relation": "isSourceOf",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.policecomplaint.com/press/",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://www.policecomplaint.com/",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    },
+    {
       "identifier": "https://data.police.uk/",
       "relation": "isDerivedFrom",
       "resource_type": "dataset"
@@ -47,7 +92,22 @@
       "resource_type": "dataset"
     },
     {
+      "identifier": "https://www.ethnicity-facts-figures.service.gov.uk/",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.gov.uk/government/collections/police-use-of-force-statistics",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
       "identifier": "https://mappingpoliceviolence.us/",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://www.census.gov/",
       "relation": "isDerivedFrom",
       "resource_type": "dataset"
     },
@@ -55,7 +115,18 @@
       "identifier": "https://www.pc.gov.au/ongoing/report-on-government-services",
       "relation": "isDerivedFrom",
       "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://github.com/copious-git/police-accountability-data",
+      "relation": "isIdenticalTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "10.6084/m9.figshare.33394402",
+      "relation": "isIdenticalTo",
+      "resource_type": "dataset"
     }
   ],
-  "notes": "Derived aggregates only. Underlying sources carry their own licences: data.police.uk, the Independent Office for Police Conduct, the Home Office and the Office for National Statistics under the Open Government Licence v3.0; the Report on Government Services under CC BY 4.0; Mapping Police Violence under the publisher's own terms; US Census Bureau data in the public domain."
+  "notes": "Derived aggregates only. Underlying sources carry their own licences: data.police.uk, the Independent Office for Police Conduct, the Home Office and the Office for National Statistics under the Open Government Licence v3.0; the Report on Government Services under CC BY 4.0; Mapping Police Violence under the publisher's own terms; US Census Bureau data in the public domain.",
+  "publisher": "PoliceComplaint.com"
 }
