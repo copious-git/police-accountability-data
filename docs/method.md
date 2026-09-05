@@ -192,3 +192,19 @@ Indigenous status that we do not hold in a form we can recompute and verify.
 - We do not impute a denominator.
 - We do not carry a figure forward from a previous period and present it as current.
 - We do not publish a rate whose denominator we cannot state.
+
+---
+
+## Where these figures are presented
+
+Every dataset described here has a readable counterpart, so a reader can check a figure against
+the table it came from without downloading a CSV.
+
+| This method covers | Presented as |
+|---|---|
+| UK stop and search outcomes and disparity | [Who gets stopped and searched](https://www.policecomplaint.com/uk/reports/who-gets-stopped-and-searched/) |
+| UK complaint review outcomes | [Compare any two forces](https://www.policecomplaint.com/uk/tools/compare/) |
+| UK deaths during and following police contact | [Deaths following police contact](https://www.policecomplaint.com/uk/reports/deaths-following-police-contact/) |
+
+The data landing page, with the licence and the current version, is at
+[policecomplaint.com/data](https://www.policecomplaint.com/data/).
